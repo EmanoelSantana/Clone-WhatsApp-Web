@@ -1,0 +1,14 @@
+.login {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login--btn {
+    width: 120px;
+    height: 60px;
+    color: #fff; 
+    background-color: #3b5998;
+    border-radius: 30%;
+    cursor: pointer;
+}
